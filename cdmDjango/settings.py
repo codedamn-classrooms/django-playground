@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-nai#16*b(q!e5j6jsao&)o(4#qpw+9uqzd@cs_8x$2f4)eluq4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['0.0.0.0', '.codedamn.app']
 
 
 # Application definition
