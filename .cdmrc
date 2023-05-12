@@ -1,0 +1,2 @@
+terminals: ["bash setup.sh && rm setup.sh"]
+tabs: ["manage.py", "cdmDjango/settings.py"]
